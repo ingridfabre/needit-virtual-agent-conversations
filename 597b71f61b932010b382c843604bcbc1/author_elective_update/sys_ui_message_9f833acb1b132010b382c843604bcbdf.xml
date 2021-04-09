@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="DELETE">
+        <application>Virtual Agent</application>
+        <key>conffff</key>
+        <language>en</language>
+        <message>conffff</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 13:31:04</sys_created_on>
+        <sys_id>9f833acb1b132010b382c843604bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>conffff</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_612293_needit_vi">597b71f61b932010b382c843604bcbc1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">597b71f61b932010b382c843604bcbc1</sys_scope>
+        <sys_update_name>sys_ui_message_9f833acb1b132010b382c843604bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 13:31:04</sys_updated_on>
+    </sys_ui_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">597b71f61b932010b382c843604bcbc1</application>
+        <file_path/>
+        <instance_id>efe1362d1bdb2810c8432f8dee4bcb62</instance_id>
+        <instance_name>dev110062</instance_name>
+        <name>sys_ui_message_9f833acb1b132010b382c843604bcbdf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><key>conffff</key><language>en</language><message>conffff</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-08 13:31:04</sys_created_on><sys_id>9f833acb1b132010b382c843604bcbdf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>conffff</sys_name><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_612293_needit_vi">597b71f61b932010b382c843604bcbc1</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">597b71f61b932010b382c843604bcbc1</sys_scope><sys_update_name>sys_ui_message_9f833acb1b132010b382c843604bcbdf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-08 13:31:04</sys_updated_on></sys_ui_message></record_update>]]></payload>
+        <payload_hash>547084742</payload_hash>
+        <record_name>conffff</record_name>
+        <reverted_from/>
+        <source>5d7bf57a1b932010b382c843604bcbda</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 13:31:04</sys_created_on>
+        <sys_id>db833acb1b132010b382c843604bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178b1addc130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 13:31:04</sys_updated_on>
+        <type>Message</type>
+        <update_guid>17833acb561320109ed83b3b315981e1</update_guid>
+        <update_guid_history>17833acb561320109ed83b3b315981e1:547084742</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 16:50:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_message">sys_ui_message</sys_db_object>
+        <sys_id>727c9231f7e84868933a1aedebdbd729</sys_id>
+        <sys_metadata>9f833acb1b132010b382c843604bcbdf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>conffff</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_612293_needit_vi">597b71f61b932010b382c843604bcbc1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">597b71f61b932010b382c843604bcbc1</sys_scope>
+        <sys_scope_delete display_value="">5bb63e8aa7a54a7ca61873c1f38e8a90</sys_scope_delete>
+        <sys_update_name>sys_ui_message_9f833acb1b132010b382c843604bcbdf</sys_update_name>
+        <sys_update_version display_value="sys_ui_message_9f833acb1b132010b382c843604bcbdf">db833acb1b132010b382c843604bcbe1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 16:50:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
